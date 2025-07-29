@@ -181,7 +181,7 @@ def banner():
     print("  C oo   ---------------")
     print(" _( ^)  |T|A|K|E|O|V|E|R|")
     print("/   ~\\  ----------------")
-    print(" original #> by M'hamed (@m4ll0k) Outaadi, cloned/editted by doctorthom")
+    print("#> orginal by M'hamed (@m4ll0k) Outaadi, editted by doctorthom")
     print("#> http://github.com/m4ll0k, https://github.com/doctorthom")
     print("-"*40)
 
