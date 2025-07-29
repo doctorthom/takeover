@@ -97,7 +97,21 @@ services = {
     'readme': {'error': r'Project doesnt exist... yet!'},
     'statuspage': {'error': r'You are being <a href=\'https>'},
     'zendesk': {'error': r'Help Center Closed'},
-    'worksites.net': {'error': r'Hello! Sorry, but the webs>'}
+    'worksites.net': {'error': r'Hello! Sorry, but the webs>'},
+
+    'Vercel': {'error': r'The deployment could not be found on Vercel.|Domain is not configured'},
+    'Netlify': {'error': r'no site was found for this domain|to claim this domain|Not Found - Request ID'},
+    'Azure': {'error': r'404 Web Site not found|This Azure Web App is not currently available'},
+    'Firebase': {'error': r'There\'s nothing here|Firebase Hosting|doesn\'t have a website'},
+    'DigitalOcean': {'error': r'Domain uses DO name servers with no records'},
+    'Cloudflare': {'error': r'DNS points to prohibited IP|Please try again in a few minutes'},
+    'Squarespace': {'error': r'You\'re connected to the internet|No Such Account|This domain is not configured'},
+    'Wix': {'error': r'Looks Like This Domain Isn\'t Connected To A Website Yet|To connect this domain, visit Wix\.com|This domain is not yet connected to a Wix website'},
+    'Hubspot': {'error': r'Domain not found|does not exist in our system'},
+    'Webex': {'error': r'This Webex site has been deactivated|is not configured'},
+    'Freshdesk': {'error': r'There is no helpdesk here|Freshdesk support page not found'},
+    'LaunchRock': {'error': r'It looks like you may have taken a wrong turn somewhere|Launch Rock could not be found'},
+    'Kinsta': {'error': r'No Site For Domain|this domain is not configured'}
 }
 
 
